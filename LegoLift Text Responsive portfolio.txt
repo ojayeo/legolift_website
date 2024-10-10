@@ -1,0 +1,115 @@
+========== HEADER ==========
+.nav__logo
+LegoLift
+
+.nav__link
+Home - Work - LegoLift Info - Services - Contact Us
+
+
+========== HOME ==========
+.home__name
+Lego <br> Lift
+
+.home__profession
+Social Enterprise & Outreach Project
+
+.home__scroll-text
+Recent Project
+
+
+========== WORK ==========
+.section__title
+RECENT PROJECTS
+
+.work__title
+LegoLift Workshop
+Involvment of Childen In STEM
+Recruiting Undergraduates
+Uplift Poverty
+
+work__description
+Short description of the project that was 
+carried out in this portfolio.
+
+
+========== INFO ==========
+.section__title
+LEGOLIFT INFO
+
+===== ABOUT =====
+.info__title
+About Me
+
+.about__description
+Robotics & Coding
+
+.about__button
+Download LegoLift
+
+===== THE LEGOLIFT TEAM =====
+.info__title
+The LegoLift Team
+
+
+========== SERVICES ==========
+.section__title
+SERVICES
+
+.services__description
+Short description of the service offered to users 
+to obtain a personalized project.
+
+
+========== CONTACT ==========
+.section__title
+CONTACT ME
+
+.contact__input - placeholder
+Names
+Email
+Message
+
+.contact__button
+Send Message
+
+.contact__social-link
+Facebook
+Instagram
+Linkedin
+
+https://www.facebook.com/people/LegoLift
+https://www.instagram.com/legolift2024/
+https://www.linkedin.com/company/legolift/?viewAsMember=true
+
+========== CONTACT JS ==========
+// serviceID - templateID - #form - publicKey
+
+   // Show sent message
+      Message sent successfully ✅
+
+   // Remove message after five seconds
+
+   // Clear input fields
+
+   // Show error message
+      Message not sent (service error) ❌
+
+Subject *
+New message from {{user_name}}
+
+Content *
+Name: {{user_name}}
+
+Email: {{user_email}}
+
+Message: {{user_message}},
+
+Best wishes,
+LegoLift Team
+
+========== FOOTER ==========
+.footer__links
+Home - Work - Info
+
+.footer__copy
+&#169; All Rights Reserved By LegoLift
